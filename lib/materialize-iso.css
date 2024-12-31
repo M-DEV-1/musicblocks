@@ -3461,7 +3461,7 @@ i.left {
 
 @media only screen and (max-width: 400px) {
   .materialize-iso .filler, .materialize-iso .logo {
-    display: block;
+    display: none;
   }
   .materialize-iso nav .main i.material-icons {
     font-size: 18px;  
